@@ -1,0 +1,41 @@
+# ANNA ERSHOVA
+
+### CONTACT INFO
+
+*email@example.com*
+
+*+375(29)0000000*
+
+[linkedin profile](https://www.linkedin.com/login)
+
+### SUMMARY
+
+My goal is to improve iOS development skills and gain new knowledge.
+
+### SKILLS
+
+**ObjC**, **C**, **Swift**, **Xcode**, **Mathematica** 
+
+### EDUCATION
+
+**Belarusian State Universit** PhD student in biomechanics
+
+*2017 - present*
+
+**Belarusian State University** MSc in mechanics
+
+*2016 - 2017*
+
+**Belarusian State University** BSc in applied mechanics
+
+*2011 - 2016*
+
+### ENGLISH
+
+**B2** - **C1** 
+
+ *practice*:
+
+- 3 months in the UK
+
+- online with native speaker

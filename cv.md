@@ -2,15 +2,16 @@
 
 ### CONTACT INFO
 
-*email@example.com*
+email: *email@example.com*
 
-*+375(29)0000000*
+phone: *+375(29)0000000*
 
-[linkedin profile](https://www.linkedin.com/login)
+profile: [linkedin profile](https://www.linkedin.com/login)
+----------------------------------------------------------
 
 ### SUMMARY
 
-My goal is to improve iOS development skills and gain new knowledge.
+My goal is to improve iOS development skills and gain new knowledge. I am keen on studying and highly-motivated to boost my progress.
 
 ### SKILLS
 
@@ -18,15 +19,18 @@ My goal is to improve iOS development skills and gain new knowledge.
 
 ### EDUCATION
 
-**Belarusian State Universit** PhD student in biomechanics
+**Belarusian State Universit** 
+PhD student in biomechanics
 
 *2017 - present*
 
-**Belarusian State University** MSc in mechanics
+**Belarusian State University** 
+MSc in mechanics
 
 *2016 - 2017*
 
-**Belarusian State University** BSc in applied mechanics
+**Belarusian State University** 
+BSc in applied mechanics
 
 *2011 - 2016*
 

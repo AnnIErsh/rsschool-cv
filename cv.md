@@ -6,7 +6,7 @@ email: *email@example.com*
 
 phone: *+375(29)0000000*
 
-profile: [linkedin profile](https://www.linkedin.com/login)
+profile: [hakerrank profile](https://www.hackerrank.com/anniersh)
 ----------------------------------------------------------
 
 ### SUMMARY

@@ -19,7 +19,7 @@ My goal is to improve iOS development skills and gain new knowledge. I am keen o
 
 ### EDUCATION
 
-**Belarusian State Universit** 
+**Belarusian State University** 
 PhD student in biomechanics
 
 *2017 - present*
